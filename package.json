@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-air",
+  "version": "0.1.0",
+  "description": "Airbnb style guide without semicolons for pet projects",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 6",
+    "eslint-config-airbnb": ">= 18",
+    "eslint-plugin-import": ">= 2",
+    "eslint-plugin-jsx-a11y": ">= 6",
+    "eslint-plugin-react": ">= 7"
+  },
+  "repository": "github:bouvens/eslint-config-air",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Alexander Demin <bouvens@gmail.com> (https://bouvens.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouvens/eslint-config-air/issues"
+  },
+  "homepage": "https://github.com/bouvens/eslint-config-air#readme"
+}

@@ -4,6 +4,7 @@
   "description": "Airbnb style guide without semicolons for pet projects",
   "main": "index.js",
   "peerDependencies": {
+    "babel-eslint": ">= 10",
     "eslint": ">= 6",
     "eslint-config-airbnb": ">= 18",
     "eslint-plugin-import": ">= 2",

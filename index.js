@@ -38,6 +38,7 @@ module.exports = {
     'react/jsx-filename-extension': ['warn', { "extensions": [".js", ".jsx"] }],
     'react/jsx-tag-spacing': 'warn',
     'react/state-in-constructor': ['error', 'never'],
+    'react/static-property-placement': ['warn', 'static public field'],
     'import/prefer-default-export': 'off',
     'import/imports-first': 'warn',
   },

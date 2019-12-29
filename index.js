@@ -19,7 +19,6 @@ module.exports = {
     'no-multiple-empty-lines': 'warn',
     'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
     'no-trailing-spaces': ['error', { skipBlankLines: true }],
-    'no-undefined': 'warn',
     'no-unexpected-multiline': 'error',
     'object-curly-newline': ['off'],
     'semi': ['warn', 'never'],

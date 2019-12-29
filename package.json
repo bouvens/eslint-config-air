@@ -6,12 +6,14 @@
   "scripts": {
     "postpublish": "git push --all origin && git push origin --tags"
   },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.0.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3"
+  },
   "peerDependencies": {
     "babel-eslint": ">= 10",
     "eslint": ">= 6",
-    "eslint-config-airbnb": ">= 18",
     "eslint-plugin-import": ">= 2",
-    "eslint-plugin-jsx-a11y": ">= 6",
     "eslint-plugin-react": ">= 7"
   },
   "repository": "github:bouvens/eslint-config-air",

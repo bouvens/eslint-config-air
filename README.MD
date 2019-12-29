@@ -14,7 +14,7 @@ yarn add -D eslint-config-air
 Install peer dependencies if you haven't yet:
 
 ```Shell
-yarn add -D eslint eslint-config-airbnb babel-eslint eslint-import-resolver-webpack eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
+yarn add -D eslint babel-eslint eslint-import-resolver-webpack eslint-plugin-import eslint-plugin-react
 ```
 
 Add extends property to the ESLint config file. `.eslintrc.js` for instance.

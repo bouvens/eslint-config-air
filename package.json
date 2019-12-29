@@ -3,6 +3,9 @@
   "version": "0.2.0",
   "description": "Airbnb style guide without semicolons for pet projects",
   "main": "index.js",
+  "scripts": {
+    "postpublish": "git push --all origin && git push origin --tags"
+  },
   "peerDependencies": {
     "babel-eslint": ">= 10",
     "eslint": ">= 6",

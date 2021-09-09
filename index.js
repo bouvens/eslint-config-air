@@ -21,7 +21,6 @@ module.exports = {
     'no-unexpected-multiline': 'error',
     'object-curly-newline': ['off'],
     'semi': ['warn', 'never'],
-    'space-before-function-paren': ['error', 'always'],
     'valid-jsdoc': ['error'],
     'jsx-a11y/label-has-for': [
       'warn', {

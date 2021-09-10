@@ -23,6 +23,10 @@ Add extends property to an ESLint config file
 extends: 'air',
 ```
 
+## See also
+
+There's the simplified config if you don't need React: [eslint-config-air-base](https://www.npmjs.com/package/eslint-config-air-base)
+
 [npm-badge]: https://img.shields.io/npm/v/eslint-config-air.png?style=flat-square
 [npm]: https://www.npmjs.org/package/eslint-config-air
 

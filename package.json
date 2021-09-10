@@ -1,15 +1,14 @@
 {
   "name": "eslint-config-air",
   "version": "0.6.0",
-  "description": "Airbnb style guide without semicolons for pet projects",
+  "description": "Airbnb style guide without semicolons",
   "main": "index.js",
   "scripts": {
     "postpublish": "git push --all origin && git push origin --tags"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-import": "^2.7.0"
+    "eslint-config-air-base": "^0.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1"
   },
   "peerDependencies": {
     "@babel/eslint-parser": ">= 7",

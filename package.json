@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-air",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "Airbnb style guide without semicolons",
   "main": "index.js",
   "scripts": {

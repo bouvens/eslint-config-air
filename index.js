@@ -1,6 +1,6 @@
 module.exports = {
   parser: '@babel/eslint-parser',
-  extends: ['air-base', 'airbnb'],
+  extends: ['airbnb', 'air-base/base'],
   rules: {
     'jsx-a11y/label-has-for': [
       'warn', {

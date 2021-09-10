@@ -7,7 +7,7 @@
     "postpublish": "git push --all origin && git push origin --tags"
   },
   "dependencies": {
-    "eslint-config-air-base": "^0.2.0",
+    "eslint-config-air-base": "^0.3.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-jsx-a11y": "^6.4.1"
   },
